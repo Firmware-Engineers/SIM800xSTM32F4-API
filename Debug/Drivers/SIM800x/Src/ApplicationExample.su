@@ -1,0 +1,2 @@
+../Drivers/SIM800x/Src/ApplicationExample.c:39:9:SysInit	32	static
+../Drivers/SIM800x/Src/ApplicationExample.c:101:6:SystemTask	72	static
